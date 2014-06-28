@@ -41,12 +41,6 @@ function abreTedMaiRecente(theUrl) {
 	var video = conteudo.substring(16, final);
 	window.open('http://www.ted.com/talks/' + video,'', 'toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no,left=10000, top=10000, width=10, height=10, visible=none', ''); 
 
-        //var ref = window.open('http://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future', '_blank', 'location=yes');
-        //ref.addEventListener('loadstart', function(event) { alert('One Ted A Day'); });
-         //ref.addEventListener('loadstop', function(event) { alert('stop: ' + event.url); });
-         //ref.addEventListener('loaderror', function(event) { alert('error: ' + event.message); });
-         //ref.addEventListener('exit', function(event) { alert(event.type); });
-
 }
 
 var app = {

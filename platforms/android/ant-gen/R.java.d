@@ -28,6 +28,7 @@ C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\res\drawable-xxhdpi
 C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\res\values\strings.xml \
 C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\res\xml\config.xml \
 C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\ant-build\res\drawable\icon_.png \
 C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\ant-build\res\drawable-hdpi\icon.png \
 C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\ant-build\res\drawable-hdpi\ic_action_next_item.png \
 C:\Users\Victor hugo\Desktop\cordova\teste\platforms\android\ant-build\res\drawable-hdpi\ic_action_previous_item.png \
